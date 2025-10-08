@@ -1,7 +1,7 @@
 ### study-of-basic-gates
-
+NAME:SUNIL NATH M.J
+REG NO:25017870
 **AIM:** 
-
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 **Equipments Required:**
@@ -63,17 +63,22 @@ Y= A⊕B
 
 
 **PROGRAM**
+![WhatsApp Image 2025-10-08 at 21 35 24_893aca7c](https://github.com/user-attachments/assets/df1a9720-65d0-44f5-9c92-e2f0c1742a46)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+![WhatsApp Image 2025-10-08 at 21 35 25_ff147563](https://github.com/user-attachments/assets/e1bfde80-15e2-44d0-87f8-a707f9a609ca)
+
 
 **RTL realization Output:** 
+![WhatsApp Image 2025-10-08 at 21 35 24_427d310d](https://github.com/user-attachments/assets/a70fe1fc-3a41-48f5-ab08-c221b87b3917)
 
-**RTL**
+
+TIMING DIAGRAM:
+![WhatsApp Image 2025-10-08 at 21 35 25_e7ac8f68](https://github.com/user-attachments/assets/f3fdda62-c56e-4247-9efc-2c9662dd87ad)
+
 
 **Result:**
+Studied and verified the truth table of logic gates in  Quartus II using verilog programming successfully.
 
 
